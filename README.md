@@ -1,4 +1,4 @@
-# YOTI Hovering Test
+# YOTI Hoovering Test
 
 This application implements an hoovering simulation in a rectangle room with no obstacles.
 
